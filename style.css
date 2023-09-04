@@ -1,0 +1,35 @@
+body {
+    font-family: '04b_30';
+    font: 16px/1.5 "Courier New", Arial, sans-serif
+}
+h1 {
+    margin-left: 0.5em;
+}
+.content {
+    color: #222;
+    margin: 0;
+    padding: 0
+}
+
+.content img {
+    padding: 2%;
+    height: auto;
+    width: 96%;
+}
+
+.btn {   
+    height: 30px;
+    padding: 6px 8px 5px 6px;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: #f15b23;
+    border: 2px solid #222;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-left: 1em;
+}
+
+p {
+    margin-left: 1em;
+}
+
